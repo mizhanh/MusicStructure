@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">MusicStructure</string>
+
+    <string name="playlist">My Playlist</string>
+
+    <!--Category name for my favorite music list-->
+    <string name="category_favorite">All Time Favorites</string>
+
+    <!--Category name for my workout at the gym music list-->
+    <string name="category_workout">Workout</string>
+
+    <!--Category name for my alarm clock music list-->
+    <string name="category_wakeup">Wake Up</string>
+
+    <!--Category name for my bedtime music list-->
+    <string name="category_bedtime">Bedtime</string>
+
+    <string name="button_home">Home</string>
+
+    <!--Workout music-->
+    <string name="workout_song1">You Shook Me All Night Long</string>
+    <string name="workout_song1_artist">AC/DC Jams</string>
+    <string name="workout_song2">Addicted To You</string>
+    <string name="workout_song2_artist">Avicii</string>
+    <string name="workout_song3">Wake Me Up</string>
+    <string name="workout_song3_artist">Avicii</string>
+    <string name="workout_song4">Harlem Shake</string>
+    <string name="workout_song4_artist">Baauer</string>
+    <string name="workout_song5">Brass Monkey</string>
+    <string name="workout_song5_artist">Beastie Boys</string>
+    <string name="workout_song6">Drunk In Love</string>
+    <string name="workout_song6_artist">Beyonce/Jay Z</string>
+    <string name="workout_song7">Treasure</string>
+    <string name="workout_song7_artist">Bruno Mars</string>
+    <string name="workout_song8">One More Time</string>
+    <string name="workout_song8_artist">Daft Punk</string>
+    <string name="workout_song9">Party Up</string>
+    <string name="workout_song9_artist">DMX</string>
+    <string name="workout_song10">The Monster</string>
+    <string name="workout_song10_artist">Eminem, Rihanna</string>
+
+    <!--Favorite music-->
+    <string name="fav_song1">House of The Rising Sun</string>
+    <string name="fav_song1_artist">The Animals</string>
+    <string name="fav_song2">Rolling In The Deep</string>
+    <string name="fav_song2_artist">Adele</string>
+    <string name="fav_song3">California</string>
+    <string name="fav_song3_artist">Phantom Planet</string>
+    <string name="fav_song4">Hotel California</string>
+    <string name="fav_song4_artist">Eagles</string>
+    <string name="fav_song5">Dont Stop Believing</string>
+    <string name="fav_song5_artist">Journey</string>
+    <string name="fav_song6">Bad Moon Rising</string>
+    <string name="fav_song6_artist">Creedence Clearwater</string>
+    <string name="fav_song7">Stairway To Heaven</string>
+    <string name="fav_song7_artist">Led Zeppelin</string>
+    <string name="fav_song8">Bohemian Rhapsody</string>
+    <string name="fav_song8_artist">Queen</string>
+    <string name="fav_song9">Beth</string>
+    <string name="fav_song9_artist">Kiss</string>
+    <string name="fav_song10">Take Me To Church</string>
+    <string name="fav_song10_artist">Hozier</string>
+
+    <!--WakeUp music-->
+    <string name="wakeup_song1">Addicted To You</string>
+    <string name="wakeup_song1_artist">Avicii</string>
+    <string name="wakeup_song2">Rolling In The Deep</string>
+    <string name="wakeup_song2_artist">Adele</string>
+    <string name="wakeup_song3">California</string>
+    <string name="wakeup_song3_artist">Phantom Planet</string>
+    <string name="wakeup_song4">Bad Moon Rising</string>
+    <string name="wakeup_song4_artist">Creedence Clearwater</string>
+    <string name="wakeup_song5">Stairway To Heaven</string>
+    <string name="wakeup_song5_artist">Led Zeppelin</string>
+    <string name="wakeup_song6">Bohemian Rhapsody</string>
+    <string name="wakeup_song6_artist">Queen</string>
+    <string name="wakeup_song7">Beth</string>
+    <string name="wakeup_song7_artist">Kiss</string>
+    <string name="wakeup_song8">Drunk In Love</string>
+    <string name="wakeup_song8_artist">Beyonce/Jay Z</string>
+
+    <!--Bedtime music-->
+    <string name="bed_song1">Sounds of Nature - Ocean Melody</string>
+    <string name="bed_song1_artist">N/A</string>
+    <string name="bed_song2">Simply Earth Relaxation Light Rain</string>
+    <string name="bed_song2_artist">N/A</string>
+    <string name="bed_song3">Nature Sound Series: Rainforest</string>
+    <string name="bed_song3_artist">N/A</string>
+    <string name="bed_song4">Mozart - Very Best of Mozart</string>
+    <string name="bed_song4_artist">Mozart</string>
+
+</resources>

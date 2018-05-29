@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/tan_background"
+    tools:context="com.example.android.musicstructure.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/playlist"
+        android:textSize="50sp"
+        android:gravity="center_horizontal"
+        android:padding="20dp"
+         />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            style="@style/CategoryStyle"
+            android:orientation="vertical"
+            android:background="@color/category_favorite">
+
+            <ImageView
+                style="@style/ImageStyle"
+                android:src="@drawable/music"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/favorite"
+                style="@style/CategoryStyle"
+                android:layout_marginTop="20dp"
+                android:text="@string/category_favorite"
+                android:textAlignment="center"/>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/CategoryStyle"
+            android:orientation="vertical"
+            android:background="@color/category_workout">
+
+            <ImageView
+                android:src="@drawable/workout"
+                style="@style/ImageStyle"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/workout"
+                android:layout_marginTop="20dp"
+                style="@style/CategoryStyle"
+                android:text="@string/category_workout"
+                android:textAlignment="center"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            style="@style/CategoryStyle"
+            android:orientation="vertical"
+            android:background="@color/category_wakeup">
+
+            <ImageView
+                android:src="@drawable/wakeup"
+                style="@style/ImageStyle"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/wakeup"
+                style="@style/CategoryStyle"
+                 android:layout_marginTop="20dp"
+                android:text="@string/category_wakeup"
+                android:textAlignment="center"/>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/CategoryStyle"
+            android:orientation="vertical"
+            android:background="@color/category_bedtime">
+
+            <ImageView
+                android:src="@drawable/sleep"
+                style="@style/ImageStyle"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/bedtime"
+                style="@style/CategoryStyle"
+                 android:layout_marginTop="20dp"
+                android:text="@string/category_bedtime"
+                android:textAlignment="center"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
